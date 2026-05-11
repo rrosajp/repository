@@ -4,6 +4,3 @@
 
 https://kodi7rd.github.io/repository
 
-# Telegram Group
-
-https://linktr.ee/kodi7rd
